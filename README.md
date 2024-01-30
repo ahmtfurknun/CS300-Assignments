@@ -13,21 +13,21 @@ Concepts used in the assignments:
 * Complexity Analysis
 
 
-### Maze
+### Assignment 1 - Maze
 
 In the first assignment, you will implement a program which will generate a random maze of size MxN,
 where M represents the number of rows, and N represents the number of columns. Then, you will also
 need to implement a function which will find the path between designated entry and exit points in a given
 maze. You are required to implement a Stack using a LinkedList data structure, and the stack class is a template-based class. 
 
-### Notebook
+### Assignment 2 - Notebook
 
 In the second assignment, you will implement two “Notebooks” by using the AVL Search Tree and the
 Binary Search Tree (BST). Additionally, you will display the speed of some of the operations on
 these tree data structures that are used for the implementation. Each “Notebook” will have a
 nested tree structure, which will be explained in more detail in the corresponding folder.
 
-### Search Engine
+### Assignment 3 - Search Engine
 
 In the third assignment, you will write a search engine. Additionally, you will compare the speed of
 two different data structures for your search engine architecture. The search engines in real life
@@ -42,7 +42,7 @@ Hash Table. Of course, you will also keep track of the details such as the docum
 the word appears in and the number of times the word appears in each document. So, you need
 to implement a templated BST and Hash Table.
 
-### PhoneBook
+### Assignment 4 - PhoneBook
 
 In the fourth assignment, you are given an unsorted PhoneBook and asked to sort it in alphabetical
 order. You will compare the given 4 Sorting algorithms and conclude which one is faster. Also, since
